@@ -1,2 +1,2 @@
 # OSlaboratory
- This repository is contains Operating System lab assignment files
+ This repository is contains Operating System lab assignment files.
